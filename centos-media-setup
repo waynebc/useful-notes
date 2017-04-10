@@ -17,3 +17,7 @@
   1) yum 添加 rpmfusion
   2) yum install gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-ffmpeg vlc
   3) 使用 vlc 来播放视频
+
+7、安装 mp4解码 方法2
+  1) yum 添加 rpmfusion
+  2) yum install yum install gstreamer-plugins-bad gstreamer-plugins-ugly gstreamer-plugins-libav 
